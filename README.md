@@ -1,6 +1,6 @@
 # Internship_Report_L3_GitHub_page
 
-Here you will find a part of my work on the gathering and analysis of bird recordings.
+Here you will find a part of my work on the gathering and analysis of bird recordings. You will find programs and videos.
 
 Only a part of my work is present as the global Birdsong GitHub is private for know and I am not allowed to share all my work publicaly.
 However it is enough to test and run the code and look at the program I wrote.
