@@ -1,0 +1,1 @@
+Here you  can notice that the birds are less comfortable than when free. In Echo 1 we see that the Nymphicu hollandicus is not comfortable due to its long tail. In Tomi 2 we here better the Nymphicus hollandicus in the background than the Gracula religiosa inside the cage.
