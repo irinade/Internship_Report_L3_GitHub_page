@@ -1,0 +1,130 @@
+Scientific name,Comon name,Groups,Clade ++,Clade +,Clade -,Order,Family,Identification Number,Localisation,Type,Diet,Vision,BodyMassValue
+Cygnus olor,Mute swan,Others,Galloanserae,Galloanserae,Galloanserae,Anseriformes,Anatidae,XC378414,France,call,PlantSeed,Diurnal,10682.04
+Anser albifrons,Greater white-fronted goose,Others,Galloanserae,Galloanserae,Galloanserae,Anseriformes,Anatidae,XC382142,Russia,call,PlantSeed,Diurnal,2506.39
+Branta bernicla,Brant,Others,Galloanserae,Galloanserae,Galloanserae,Anseriformes,Anatidae,XC501429,United Kingdom,call,PlantSeed,Diurnal,1277.91
+Anas penelope,Eurasian wigeon,Others,Galloanserae,Galloanserae,Galloanserae,Anseriformes,Anatidae,XC549017,Germany,call,PlantSeed,Diurnal,770.03
+Bucephala clangula,Common goldeneye,Others,Galloanserae,Galloanserae,Galloanserae,Anseriformes,Anatidae,XC378447,Sweden,"call, female",Invertebrate,Diurnal,918.56
+Ortalis vetula,Plain chachalaca,Others,Galloanserae,Galloanserae,Galloanserae,Galliformes,Cracidae,XC328936,Costa Rica,male,FruiNect,Diurnal,562.6
+Callipepla squamata,Scaled quail,Others,Galloanserae,Galloanserae,Galloanserae,Galliformes,Odontrophoridae,XC204147,United States,"call, song",PlantSeed,Diurnal,183.86
+Callipepla gambelii,Gambel's quail,Others,Galloanserae,Galloanserae,Galloanserae,Galliformes,Odontrophoridae,XC475179,United States,"male, song",PlantSeed,Diurnal,165.95
+Meleagris gallopavo,Wild turkey,Others,Galloanserae,Galloanserae,Galloanserae,Galliformes,Phasianidae,XC35320,United States,"call, female",PlantSeed,Diurnal,5791.37
+Perdix perdix,Grey partridge,Others,Galloanserae,Galloanserae,Galloanserae,Galliformes,Phasianidae,XC531875,Belgium,song,PlantSeed,Diurnal,405.3
+Gallus gallus,Red junglefowl,Others,Galloanserae,Galloanserae,Galloanserae,Galliformes,Phasianidae,XC528092,Spain,"male, song",Omnivore,Diurnal,751.72
+Alectoris chukar,Chukar partridge,Others,Galloanserae,Galloanserae,Galloanserae,Galliformes,Phasianidae,XC523756,Israel,call,PlantSeed,Diurnal,502.1
+Phasianus colchicus,Common pheasant,Others,Galloanserae,Galloanserae,Galloanserae,Galliformes,Phasianidae,XC487821,United Kingdom,"call, male",PlantSeed,Diurnal,1120.31
+Podiceps auritus,Horned grebe,Others,Mirandornithes,Mirandornithes,Phoenicopterimorphae,Podocipediformes,Podicepedidae,XC488095,Iceland,call,VertFishScav,Diurnal,453
+Podiceps grisegena,Red-necked grebe,Others,Mirandornithes,Mirandornithes,Phoenicopterimorphae,Podocipediformes,Podicepedidae,XC482542,Poland,call,Omnivore,Diurnal,1023
+Podiceps nigricollis,Black-necked grebe,Others,Mirandornithes,Mirandornithes,Phoenicopterimorphae,Podocipediformes,Podicepedidae,XC463852,Japan,call,Invertebrate,Diurnal,412.44
+Columba livia,Rock dove,Others,Basal Landbirds,Columbaves,Columbimorphae,Columbiformes,Colombidae,XC541143,France,call,PlantSeed,Diurnal,354.2
+Streptopelia decaocto,Eurasian collared dove,Others,Basal Landbirds,Columbaves,Columbimorphae,Columbiformes,Colombidae,XC553211,France,song,PlantSeed,Diurnal,148.96
+Zenaida macroura,Mourning dove,Others,Basal Landbirds,Columbaves,Columbimorphae,Columbiformes,Colombidae,XC523306,United States,song,PlantSeed,Diurnal,118.93
+Cuculus canorus,Common cuckoo,Others,Basal Landbirds,Columbaves,Otidimorphae,Cuculiformes,Cuculidae,XC557467,,,Invertebrate,Diurnal,111.36
+Clamator glandarius,Great spotted cuckoo,Others,Basal Landbirds,Columbaves,Otidimorphae,Cuculiformes,Cuculidae,XC540173,France,call,Invertebrate,Diurnal,143
+Coccyzus erythropthalmus,Black-billed cuckoo,Others,Basal Landbirds,Columbaves,Otidimorphae,Cuculiformes,Cuculidae,XC269097,Canada,song,Invertebrate,Diurnal,50.9
+Apus apus,Common swift,Hummingbirds,Basal Landbirds,Strisores,Strisores,Caprimulgiformes,Apodidae,XC184145,Switzerland,call,Invertebrate,Diurnal,37.6
+Apus affinis,Little swift,Hummingbirds,Basal Landbirds,Strisores,Strisores,Caprimulgiformes,Apodidae,XC392303,South Africa,call,Invertebrate,Diurnal,22.57
+Apus caffer,White-rumped swift,Hummingbirds,Basal Landbirds,Strisores,Strisores,Caprimulgiformes,Apodidae,XC446267,South Africa,call,Invertebrate,Diurnal,22.1
+Porzana parva,Little crake,Others,Basal Landbirds,Gruimorphae ,Gruiformes,Gruiformes,Rallidae,XC382735,Poland,call,Invertebrate,Diurnal,49.7
+Porzana porzana,Spotted crake,Others,Basal Landbirds,Gruimorphae ,Gruiformes,Gruiformes,Rallidae,XC554303,France,song,Omnivore,Diurnal,87.1
+Fulica cristata,Red-knobbed coot,Others,Basal Landbirds,Gruimorphae ,Gruiformes,Gruiformes,Rallidae,XC431996,Spain,call,PlantSeed,Diurnal,826
+Porphyrio porphyrio,Wester swamphen,Others,Basal Landbirds,Gruimorphae ,Gruiformes,Gruiformes,Rallidae,XC518347,Spain,call,PlantSeed,Diurnal,773.88
+Fulica atra,Eurasian coot,Others,Basal Landbirds,Gruimorphae ,Gruiformes,Gruiformes,Rallidae,XC558685,Poland,"call, male",PlantSeed,Diurnal,717.12
+Aramus guarauna,Limpkin,Others,Basal Landbirds,Gruimorphae ,Gruiformes,Gruiformes,Aramidae,XC443118,Bolivia,call,Omnivore,Diurnal,1080
+Grus grus,Common crane,Others,Basal Landbirds,Gruimorphae ,Gruiformes,Gruiformes,Gruidae,XC545659,Sweden,call,PlantSeed,Diurnal,5499.99
+Grus monacha,Hodded crane,Others,Basal Landbirds,Gruimorphae ,Gruiformes,Gruiformes,Gruidae,XC168781,Japan,call,PlantSeed,Diurnal,3729.9
+Himantopus himantopus,Black-winged stilt,Others,Basal Landbirds,Gruimorphae ,Phoenicopterimorphae,Charadriiformes,Recurvirostridae,XC558418,Portugal,call,Invertebrate,Diurnal,176.82
+Recurvirostra avosetta,Pied avocet,Others,Basal Landbirds,Gruimorphae ,Phoenicopterimorphae,Charadriiformes,Recurvirostridae,XC558889,France,call,Invertebrate,Diurnal,304
+Haematopus ostralegus,Eurasian oystercatcher,Others,Basal Landbirds,Gruimorphae ,Phoenicopterimorphae,Charadriiformes,Hematopodidae,XC487601,Iceland,call,Invertebrate,Diurnal,526
+Charadrius hiaticula,Common ringed plover,Others,Basal Landbirds,Gruimorphae ,Phoenicopterimorphae,Charadriiformes,Charadriidae,XC494515,France,call,Invertebrate,Diurnal,64.04
+Charadrius dubius,Little ringed plove,Others,Basal Landbirds,Gruimorphae ,Phoenicopterimorphae,Charadriiformes,Charadriidae,XC541214,France,call,Invertebrate,Diurnal,38.7
+Vanellus vanellus,Northern lapwing,Others,Basal Landbirds,Gruimorphae ,Phoenicopterimorphae,Charadriiformes,Charadriidae,XC520000,Sweden,call,Invertebrate,Diurnal,218.37
+Calidris alpina,Dunlin,Others,Basal Landbirds,Gruimorphae ,Phoenicopterimorphae,Charadriiformes,Scolopacidae,XC448303,Mexico,call,Invertebrate,Diurnal,51.89
+Calidris minuta,Little stint,Others,Basal Landbirds,Gruimorphae ,Phoenicopterimorphae,Charadriiformes,Scolopacidae,XC383563,Norway,song,Invertebrate,Diurnal,21.1
+Stercorarius pomarinus,Pomarine jaeger,Others,Basal Landbirds,Gruimorphae ,Phoenicopterimorphae,Charadriiformes,Stercorariidae,XC184384,United States,call,VertFishScav,Diurnal,692.47
+Uria aalge,Common guillemot,Others,Basal Landbirds,Gruimorphae ,Phoenicopterimorphae,Charadriiformes,Alcidae,XC449660,Sweden,call,VertFishScav,Diurnal,991.93
+Cepphus grylle,Black guillemot,Others,Basal Landbirds,Gruimorphae ,Phoenicopterimorphae,Charadriiformes,Alcidae,XC475659,Sweden,"call, song",VertFishScav,Diurnal,378
+Larus genei,Slender-billed gull,Others,Basal Landbirds,Gruimorphae ,Phoenicopterimorphae,Charadriiformes,Laridae,XC545637,France,call,Omnivore,Diurnal,281
+Larus ridibundus,Black-headed gull,Others,Basal Landbirds,Gruimorphae ,Phoenicopterimorphae,Charadriiformes,Laridae,XC549924,France,call,Invertebrate,Diurnal,284
+Gavia arctica,Black-throated loon,Others,Ardeae,Ardeae,Ardeae,Gaviiformes,Gaviidae,XC375885,Finland,song,VertFishScav,Diurnal,2251.1
+Gavia stellata,Red-throated loon,Others,Ardeae,Ardeae,Ardeae,Gaviiformes,Gaviidae,XC479161,Iceland,call,VertFishScav,Diurnal,1486
+Hydrobates pelagicus,Europen storm petrel,Others,Ardeae,Ardeae,Ardeae,Procellariiformes,Hydrobatidae,XC320817,Ireland,call,Omnivore,Diurnal,25.2
+Puffinus gravis,Great shearwater,Others,Ardeae,Ardeae,Ardeae,Procellariiformes,Procellariidae,XC310326,South Africa,call,VertFishScav,Diurnal,848.99
+Puffinus griseus,Sooty shearwater,Others,Ardeae,Ardeae,Ardeae,Procellariiformes,Procellariidae,XC198157,New Zealand,song,VertFishScav,Diurnal,787
+Ciconia nigra,Black stork,Others,Ardeae,Ardeae,Ardeae,Ciconiformes,Ciconiidae,XC254677,Poland,"call, male, song",VertFishScav,Diurnal,2926
+Ciconia ciconia,White stork,Others,Ardeae,Ardeae,Ardeae,Ciconiformes,Ciconiidae,XC181355,Poland,call,VertFishScav,Diurnal,3445.8
+Phoenicopterus roseus,Greater flamingo,Others,Ardeae,Ardeae,Ardeae,Ciconiformes,Phoenicopteridae,XC31609,Italy,call,Omnivore,Diurnal,3031.59
+Morus bassanus,Northern gannet,Others,Ardeae,Ardeae,Ardeae,Suliformes,Sulidae,XC283727,Iceland,,VertFishScav,Diurnal,2998.74
+Phalacrocorax carbo,Greater cormorant,Others,Ardeae,Ardeae,Ardeae,Suliformes,Phalacrocracidae,XC431890,Germany,call,VertFishScav,Diurnal,2528.97
+Phalacrocorax pygmeus,Pygmy cormorant,Others,Ardeae,Ardeae,Ardeae,Suliformes,Phalacrocracidae,XC296075,Romania,call,VertFishScav,Diurnal,675.97
+Pelecanus onocrotalus,Great white pelican,Others,Ardeae,Ardeae,Ardeae,Pelecaniformes,Pelecanidae,XC214285,Netherlands,call,VertFishScav,Diurnal,9322.31
+Pelecanus crispus,Dalmatian pelican,Others,Ardeae,Ardeae,Ardeae,Pelecaniformes,Pelecanidae,XC331137,Romania,call,VertFishScav,Diurnal,9512.09
+Ardea cinerea,Grey heron,Others,Ardeae,Ardeae,Ardeae,Pelecaniformes,Ardeidae,XC542363,France,call,VertFishScav,Diurnal,1443
+Egretta thula,Snowy egret,Others,Ardeae,Ardeae,Ardeae,Pelecaniformes,Ardeidae,XC452102,United States,call,Omnivore,Diurnal,371
+Egretta garzetta,Little egret,Others,Ardeae,Ardeae,Ardeae,Pelecaniformes,Ardeidae,XC460199,India,call,Invertebrate,Diurnal,312
+Plegadis falcinellus,Glossy ibis,Others,Ardeae,Ardeae,Ardeae,Pelecaniformes,Threskiornithidae,XC162094,United States,call,Invertebrate,Diurnal,626.61
+Gyps fulvus,Griffon vulture,Others,Telluraves,Afroaves,Accipitrimorphae,Cathartiformes,Cathartidae,XC423956,Spain,call,VertFishScav,Diurnal,7435.99
+Aegypius monachus,Cinereous vulture,Others,Telluraves,Afroaves,Accipitrimorphae,Cathartiformes,Cathartidae,XC144935,France,call,VertFishScav,Diurnal,9320.55
+Pandion haliaetus,Osprey,Others,Telluraves,Afroaves,Accipitrimorphae,Accipitiformes,Pandionidae,XC488250,Mexico,call,VertFishScav,Diurnal,1483.2
+Buteo buteo,Common buzzard,Others,Telluraves,Afroaves,Accipitrimorphae,Accipitiformes,Accipitridae,XC366035,Italy,call,VertFishScav,Diurnal,759.1
+Aquila fasciatus,Bonelli's eagle,Others,Telluraves,Afroaves,Accipitrimorphae,Accipitiformes,Accipitridae,XC395837,Spain,song,VertFishScav,Diurnal,1936.49
+Gypaetus barbatus,Bearded vulture,Others,Telluraves,Afroaves,Accipitrimorphae,Accipitiformes,Accipitridae,XC144936,France,call,VertFishScav,Diurnal,5694.98
+Strix aluco,Tawny owl,Others,Telluraves,Afroaves,Strigiformes,Strigiformes,Strigidae,XC543280,France,song,VertFishScav,Nocturnal,472.46
+Otus scops,Eurasian scops owl,Others,Telluraves,Afroaves,Strigiformes,Strigiformes,Strigidae,XC518445,Spain,call,Invertebrate,Nocturnal,92
+Asio otus,Long-eared owl,Others,Telluraves,Afroaves,Strigiformes,Strigiformes,Strigidae,XC541464,Netherlands,"call, female",VertFishScav,Nocturnal,296.57
+Bubo bubo,Eurasian eagle-owl,Others,Telluraves,Afroaves,Strigiformes,Strigiformes,Strigidae,XC366027,Italy,"female, song",VertFishScav,Nocturnal,2668.51
+Tyto alba,Barn owl,Others,Telluraves,Afroaves,Strigiformes,Strigiformes,Tytonidae,XC551006,France,song,VertFishScav,Nocturnal,403.32
+Apaloderma narina,Narina trogon,Others,Telluraves,Afroaves,Coraciimorphae,Trogoniformes,Trogonidae,XC264910,Uganda,song,Invertebrate,Diurnal,67.69
+Alcedo atthis,Common Kingfisher,Others,Telluraves,Afroaves,Coraciimorphae,Coraciiformes,Alcedinidae,XC544658,Germany,call,VertFishScav,Diurnal,31.09
+Picus viridis,Green Woodpecker,Others,Telluraves,Afroaves,Coraciimorphae,Piciformes,Picidae,XC552374,Germany ,song,Invertebrate,Diurnal,176
+Dendrocopos major,Great Spotted Woodpecker,Others,Telluraves,Afroaves,Coraciimorphae,Piciformes,Picidae,XC558876,Poland ,call,Omnivore,Diurnal,74.94
+Ramphastos toco,Toco Toucan,Others,Telluraves,Afroaves,Coraciimorphae,Piciformes,Ramphastidae,XC443546,Brazil ,song,FruiNect,Diurnal,617.99
+Falco tinnunculus,Common Kestrel,Others,Telluraves,Australaves,Falconiformes,Falconiformes,Falconidae,XC544117,France ,"call, female, male",VertFishScav,Diurnal,183.21
+Daptrius ater,Black Caracara,Others,Telluraves,Australaves,Falconiformes,Falconiformes,Falconidae,XC478225,Ecuador ,call,VertFishScav,Diurnal,351.75
+Psittacus erithacus,Grey Parrot,Parrots,Telluraves,Australaves,Psittacopasserae,Psittaciformes,Psittacidae,XC348473,Sao Tome,call,Omnivore,Diurnal,333
+Psittacula krameri,Rose-ringed Parakeet,Parrots,Telluraves,Australaves,Psittacopasserae,Psittaciformes,Psittacidae,XC553257,France ,call,FruiNect,Diurnal,116.11
+Myiopsitta monachus,Monk Parakeet,Parrots,Telluraves,Australaves,Psittacopasserae,Psittaciformes,Psittacidae,XC551586,Argentina ,call,PlantSeed,Diurnal,120
+Nymphicus hollandicus,Cockatiel,Parrots,Telluraves,Australaves,Psittacopasserae,Psittaciformes,Cacatuidae,XC165448,Mexico ,"call, male",PlantSeed,Diurnal,94.61
+Cacatua roseicapilla,Galah,Parrots,Telluraves,Australaves,Psittacopasserae,Psittaciformes,Cacatuidae,XC495757,Australia ,call,PlantSeed,Diurnal,325.33
+Nestor notabilis,Kea,Parrots,Telluraves,Australaves,Psittacopasserae,Psittaciformes,Nestoridae,XC405529,New Zealand,call,PlantSeed,Diurnal,862.97
+Empidonax flavescens,Yellowish Flycatcher,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Tyrannidae,XC518744,Costa Rica,call,Invertebrate,Diurnal,12.5
+Vireo flavifrons,Yellow-throated Vireo,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Vireonidae,XC553999,United States,song,Invertebrate,Diurnal,18
+Pteruthius flaviscapis,Blyth's Shrike-babbler,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Vireonidae,XC549601,India,"call, song",Invertebrate,Diurnal,38.67
+Erpornis zantholeuca,White-bellied Erpornis,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Vireonidae,XC446280,China,call,Invertebrate,Diurnal,11.8
+Lanius collurio,Red-backed Shrike,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Laniidae,XC559160,Sweden,"call, male",Invertebrate,Diurnal,28.44
+Corvus corone,Carrion Crow,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Corvidae,XC543996,Germany,call,VertFishScav,Diurnal,570
+Pica pica,Eurasian Magpie,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Corvidae,XC545432,France,call,VertFishScav,Diurnal,217.48
+Garrulus glandarius,Eurasian Jay,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Corvidae,XC463854,Germany,call,Omnivore,Diurnal,159.46
+Parus caeruleus,Eurasian Blue Tit,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Paridae,XC555028,Belgium,song,Omnivore,Diurnal,13.3
+Parus ater,Coal Tit,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Paridae,XC554486,Portugal,"call, female",Omnivore,Diurnal,9.2
+Remiz pendulinus,Eurasian Penduline Tit,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Remizidae,XC559267,Sweden,call,Invertebrate,Diurnal,9.3
+Alauda arvensis,Eurasian Skylark,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Alaudidae,XC554924,Finland,song,PlantSeed,Diurnal,37.31
+Delichon urbicum,Common House Martin,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Hirundinidae,XC559161,Germany,call,Invertebrate,Diurnal,14.5
+Hirundo rustica,Barn Swallow,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Hirundinidae,XC559606,Poland,"male, song",Invertebrate,Diurnal,17.91
+Phylloscopus bonelli,Western Bonelli's Warbler,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Phylloscopidae,XC550336,France,"male, song",Invertebrate,Diurnal,8.69
+Aegithalos caudatus,Long-tailed Tit,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Aegithalidae,XC551914,France,call,Invertebrate,Diurnal,8.6
+Chamaea fasciata,Wrentit,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Sylviidae,XC443636,United States,call,Omnivore,Diurnal,14.73
+Regulus regulus,Goldcrest,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Regulidae,XC551471,Finland,song,Invertebrate,Diurnal,5.54
+Sitta europaea,Eurasian Nuthatch,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Sittidae,XC541519,France,call,Invertebrate,Diurnal,20.37
+Certhia americana,Brown Creeper,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Certhiidae,XC555119,United States,"male, song",Invertebrate,Diurnal,8.1
+Polioptila californica,California Gnatcatcher,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Polioptilidae,XC402941,United States,call,Invertebrate,Diurnal,5.82
+Troglodytes troglodytes,Eurasian Wren,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Troglodytidae,XC554784,France,call,Invertebrate,Diurnal,9.74
+Cinclus mexicanus,American Dipper,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Cinclidae,XC460527,United States,song,Invertebrate,Diurnal,56.68
+Sturnus vulgaris,Common Starling,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Sturnidae,XC538805,France,"call, song",Omnivore,Diurnal,77.14
+Mimus polyglottos,Northern Mockingbird,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Mimidae,XC559555,United States,"male, song",Omnivore,Diurnal,48.5
+Toxostoma rufum,Brown Thrasher,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Mimidae,XC559689,Canada,song,Omnivore,Diurnal,68.8
+Neocossyphus rufus,Red-tailed Ant Thrush,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Turdidae,XC154804,Kenya,song,Invertebrate,Diurnal,65.9
+Saxicola torquatus,European stonechat,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Muscicapidae,XC559703,Germany,song,Invertebrate,Diurnal,14.09
+Bombycilla cedrorum,Cedar Waxwing,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Bombycillidae,XC466823,Mexico,call,FruiNect,Diurnal,31.58
+Phainopepla nitens,Phainopepla,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Ptiliogonatidae,XC465654,United States,"call, male, song",FruiNect,Diurnal,22.1
+Peucedramus taeniatus,Olive Warbler,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Peucedramidae,XC410934,United States,song,Invertebrate,Diurnal,11
+Passer domesticus,House Sparrow,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Passeridae,XC559610,Poland,"call, female, male, song",PlantSeed,Diurnal,26.51
+Motacilla madaraspatensis,White-browed Wagtail,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Motacillidae,XC423766,India,song,Invertebrate,Diurnal,30.5
+Anthus nilghiriensis,Nilgiri Pipit,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Motacillidae,XC19782,India,song,Invertebrate,Diurnal,22.03
+Pyrrhula pyrrhula,Eurasian bullfinch,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Fringillidae,XC535584,France,call,PlantSeed,Diurnal,24.26
+Calcarius lapponicus,Lapland Longspur,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Calcariidae,XC527045,France,call,Omnivore,Diurnal,27.84
+Spizella arborea,American Tree Sparrow,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Passerellidae,XC482783,Canada,song,Omnivore,Diurnal,17.83
+Icteria virens,Yellow-breasted Chat,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Icteriidae,XC559489,United States,song,Invertebrate,Diurnal,24.89
+Xanthocephalus xanthocephalus,Yellow-headed Blackbird,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Icteriidae,XC411393,United States,song,Invertebrate,Diurnal,62.68
+Protonotaria citrea,Prothonotary warbler,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Parulidae,XC557757,Canada,song,Invertebrate,Diurnal,14.3
+Cardinalis cardinalis,Northern Cardinal,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Cardinalidae,XC558340,United States,"male, song",PlantSeed,Diurnal,42.64
+Oriolus oriolus,Eurasian golden oriole,Passerines,Telluraves,Australaves,Psittacopasserae,Passeriformes,Oriolidae,XC557407,Germany,song,Omnivore,Diurnal,79

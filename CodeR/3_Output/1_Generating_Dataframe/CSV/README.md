@@ -1,0 +1,2 @@
+- This folder will receive all generated CSV
+- NB : make Rscript with function that concatenate every csv file into a csv df
